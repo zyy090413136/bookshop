@@ -1,0 +1,12 @@
+{
+    "users": [
+        {
+            "xing": "王",
+            "ming": "鑫磊",
+            "email": "richard.jay@qq.com",
+            "id": "admin",
+            "passwd": "admin",
+            "passwd2": "admin"
+        }
+    ]
+}

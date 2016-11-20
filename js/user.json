@@ -1,0 +1,31 @@
+{
+    "users": [
+        {
+            "xing": "q",
+            "ming": "e",
+            "email": "1165982380@qq.com",
+            "id": "admin",
+            "passwd": "admin",
+            "passwd2": "admin",
+            "emil": "1165982380@qq.com"
+        },
+        {
+            "xing": "1",
+            "ming": "1",
+            "email": "1",
+            "id": "zyy",
+            "passwd": "123",
+            "passwd2": "123",
+            "emil": "1"
+        },
+        {
+            "xing": "1",
+            "ming": "2",
+            "email": "3",
+            "id": "dahuang",
+            "passwd": "123",
+            "passwd2": "123",
+            "emil": "3"
+        }
+    ]
+}
